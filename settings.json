@@ -45,6 +45,8 @@
     // "trigger",
     // "css",
     "koleksilink",
+    "promptsave",
+    "agendaku",
     "TODO"
   ],
   "todo-tree.tree.hideIconsWhenGroupedByTag": true,
