@@ -39,12 +39,12 @@
   "todo-tree.tree.sortTagsOnlyViewAlphabetically": true,
   "todo-tree.general.tags": [
     // "general",
-    "users",
+    // "users",
     "dbase",
     // "relasi",
     // "trigger",
     // "css",
-    "koleksilink",
+    // "koleksilink",
     "promptsave",
     "agendaku",
     "TODO"
