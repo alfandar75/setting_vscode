@@ -1,0 +1,8 @@
+# ignore semua
+*
+# tapi tetap baca folder & gitignore
+!/.vscode/settings.json
+!/snippets/komentar.code-snippets
+!/settings.json
+!.gitignore
+!*/

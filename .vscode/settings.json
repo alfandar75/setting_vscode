@@ -1,0 +1,8 @@
+{
+	"files.exclude": {
+        "**/globalStorage": true,
+		"**/History": true,
+		"**/snippets/launch.json.code-snippets": true,
+		"**/workspaceStorage": true,
+	}
+}
